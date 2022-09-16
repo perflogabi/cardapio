@@ -2,13 +2,13 @@
 @import "styles/breakpoints";
 
 .header {
-    align-items: center;
-    background-image: url("/assets/cardapio/header.png");
-    background-size: cover;
-    background-repeat: no-repeat;
-    display: flex;
-    height: 300px;
-    padding: 0px $padding-horizontal;
+  align-items: center;
+  background-image: url("/assets/cardapio/header.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  height: 300px;
+  padding: 0px $padding-horizontal;
     @media (max-width: $desktop_xsm) {
       padding: 0px $padding-horizontal-mobile;
     }

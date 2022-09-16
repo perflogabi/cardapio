@@ -1,5 +1,5 @@
 import Menu from 'components/Menu';
-import PaginaPadrao from 'components/PaginaPadrao/iindex';
+import PaginaPadrao from 'components/PaginaPadrao/index';
 import Cardapio from 'pages/Cardapio';
 import Inicio from 'pages/Inicio';
 import Sobre from 'pages/Sobre';
